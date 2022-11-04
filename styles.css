@@ -1,0 +1,6 @@
+body{
+  background: #121214;
+  background-image: url(./assets/bg.svg);
+  background-position-x:center;
+  background-position-y: 55%;
+}
