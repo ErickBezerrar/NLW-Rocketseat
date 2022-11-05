@@ -9,7 +9,7 @@ body{
   background-position-y: 55.6%;
 }
 
-#app{
+.app{
   width: fit-content;
   margin-top: 52px auto;
 }
